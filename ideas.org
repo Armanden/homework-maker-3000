@@ -1,0 +1,12 @@
+* Optional Powerful Features
+
+You can upgrade this into a serious tool:
+
+Add:
+
+- automatic multi-slide generation
+- math detection → Typst equations
+- references / citations
+- diagram generation
+- Markdown → Typst conversion
+- LaTeX → Typst translation
